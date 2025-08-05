@@ -108,8 +108,8 @@ If you're a **recruiter**:
 I’m currently transitioning into a data science & AI role and documenting everything I learn. This GitHub is a public record of my growth, consistency, and passion for solving real problems with data.
 
 - 💼 Open to internships, entry-level DS/ML roles, or remote projects
-- 🌍 Based in [Your Country]
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/YOUR-LINK) or email at you@example.com
+- 🌍 Based in [Türkiye]
+- 📫 Reach me on [LinkedIn]((https://www.linkedin.com/in/copurmehmetcan/)) or email at mehmetcopur5142@gmail.com
 
 ---
 
