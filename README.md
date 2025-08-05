@@ -109,7 +109,7 @@ I’m currently transitioning into a data science & AI role and documenting ever
 
 - 💼 Open to internships, entry-level DS/ML roles, or remote projects
 - 🌍 Based in [Türkiye]
-- 📫 Reach me on [LinkedIn]((https://www.linkedin.com/in/copurmehmetcan/)) or email at mehmetcopur5142@gmail.com
+- 📫 Reach me on [LinkedIn]([(https://www.linkedin.com/in/copurmehmetcan/)]) or email at mehmetcopur5142@gmail.com
 
 ---
 
